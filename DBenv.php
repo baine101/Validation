@@ -1,8 +1,8 @@
 <?php
 
 define("DB_SERVER", "192.168.1.66");
-define("DB_USER", "baine101");
-define("DB_PASSWORD", "blink182");
+define("DB_USER", "test");
+define("DB_PASSWORD", "test");
 define("DB_DATABASE", "test");
 
 
